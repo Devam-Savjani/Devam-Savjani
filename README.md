@@ -5,10 +5,6 @@
 
 ### :chart_with_upwards_trend: GitHub Stats
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Devam-Savjani&count_private=true&show_icons=true&hide_border=true&theme=chartreuse-dark&hide=issues,contribs" />
-
-<br/>
-
 <img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devam-Savjani&show_icons=true&hide_border=true&theme=chartreuse-dark&layout=compact" />
 
 
